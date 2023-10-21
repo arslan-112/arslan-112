@@ -5,6 +5,7 @@
 
 
    ⚡ WELCOME TO MY GITHUB ⚡
+   
  Some information about me:
 - 🎓 SOPHOMORE AT CUI 
 - 🧑‍💻 LOVE TO CODE
