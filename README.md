@@ -7,7 +7,7 @@
    ⚡ WELCOME TO MY GITHUB ⚡
    
  Some information about me:
-- 🎓 SOPHOMORE AT CUI 
+- 🎓 JUNIOR YEAR AT CUI 
 - 🧑‍💻 LOVE TO CODE
 - 🕸️ I’m currently working on my web development skills
 - 🎓 I’m currently learning Data Science...
